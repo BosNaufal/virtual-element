@@ -4,7 +4,7 @@ Simple Reactive Web Component With Virtual DOM for building user interfaces.
 [DEMO](https://rawgit.com/BosNaufal/virtual-element/master/index.html)
 
 ## Documentation
-For a moment, please read the [index.js]('https://github.com/BosNaufal/virtual-element/blob/master/example/index.js'). I have written fully commented code in there, just for introduction. The Documentation is coming soon.
+For a moment, please read the [index.js](https://github.com/BosNaufal/virtual-element/blob/master/example/index.js). I have written fully commented code in there, just for introduction. The Documentation is coming soon.
 
 ## Credits
 Thanks to [virtual-dom](https://github.com/Matt-Esch/virtual-dom) and [register element polyfill](https://github.com/WebReflection/document-register-element)
